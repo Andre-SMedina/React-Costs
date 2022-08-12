@@ -1,20 +1,14 @@
 import "./App.css";
-import Frase from "./components/Frase";
-import List from "./components/List";
-import Pessoa from "./components/Pessoa";
+import Evento from "./components/Evento";
+import Form from "./components/Form";
 
 function App() {
   return (
     <div className="App">
-      <h1>Olá React</h1>
-      <Frase />
-      <Pessoa
-        nome="Pedro"
-        idade="30"
-        profissao="Programador"
-        foto="https://i0.wp.com/multarte.com.br/wp-content/uploads/2019/03/250px-094gengar_tr5k.png?w=250&ssl=1"
-      />
-      <List />
+      <h1>Testando eventos</h1>
+      <Evento numero="1" />
+      <Evento numero="2" />
+      <Form />
     </div>
   );
 }
