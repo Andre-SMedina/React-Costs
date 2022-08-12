@@ -1,10 +1,12 @@
 import "./App.css";
+import Frase from "./components/Frase";
 import Pessoa from "./components/Pessoa";
 
 function App() {
   return (
     <div className="App">
       <h1>Olá React</h1>
+      <Frase />
       <Pessoa
         nome="Pedro"
         idade="30"
