@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 function Form() {
-  // André, é o valor padrão atribuido para name. setName é usado para atribuir um valor para name
+  // André é o valor padrão atribuido para name. setName é usado para atribuir um valor para name
   const [name, setName] = useState("André");
   const [password, setPassword] = useState();
 
