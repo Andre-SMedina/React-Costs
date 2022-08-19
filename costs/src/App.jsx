@@ -8,7 +8,7 @@ import Home from "./components/pages/Home";
 import NewProject from "./components/pages/NewProject";
 import Projects from "./components/pages/Projects";
 
-import Container from "./components/layouts/Containner";
+import Container from "./components/layouts/Container";
 
 function App() {
   return (
@@ -17,7 +17,7 @@ function App() {
       <Container customClass="min_height">
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/Projects" element={<Projects />} />
+          <Route path="/Projects/:msg" element={<Projects />} />
           <Route path="/Company" element={<Company />} />
           <Route path="/Contact" element={<Contact />} />
           <Route path="/NewProject" element={<NewProject />} />

@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 
-import Container from "./Containner";
+import Container from "./Container";
 
 import styles from "./Navbar.module.css";
 import logo from "../../img/costs_logo.png";
@@ -17,7 +17,7 @@ function Navbar() {
             <Link to={"/"}>Home</Link>
           </li>
           <li className={styles.item}>
-            <Link to={"/projects"}>Projetos</Link>
+            <Link to={"/projects/null"}>Projetos</Link>
           </li>
           <li className={styles.item}>
             <Link to={"/company"}>Empresa</Link>

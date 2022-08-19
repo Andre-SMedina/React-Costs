@@ -1,15 +1,70 @@
 {
   "Projects": [
     {
-      "name": "teste",
-      "budget": "5000",
+      "name": "Casa Nova",
+      "budget": "50000",
       "category": {
         "id": "1",
         "name": "Infra"
       },
       "cost": 0,
       "services": [],
-      "id": 1
+      "id": 2
+    },
+    {
+      "name": "Escola",
+      "budget": "39999",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
+    },
+    {
+      "name": "Apartamento",
+      "budget": "80000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
+    },
+    {
+      "name": "Piscina da casa de praia",
+      "budget": "20000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 6
+    },
+    {
+      "name": "Viagem de fim de ano",
+      "budget": "15000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 7
+    },
+    {
+      "name": "Loja de informática",
+      "budget": "35000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 8
     }
   ],
   "Categories": [

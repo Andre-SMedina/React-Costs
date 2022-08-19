@@ -22,7 +22,7 @@ function NewProject() {
         resp.json();
       })
       .then((data) => {
-        navigate("/projects", { message: "Projeto criado com sucesso!" });
+        navigate("/projects/Projeto criado com sucesso!");
       })
       .catch((err) => console.log(err));
   }

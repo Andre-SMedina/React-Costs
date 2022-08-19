@@ -1,0 +1,10 @@
+.project_container {
+  width: 1400px;
+  margin: 0 auto;
+  padding: 2em;
+}
+.tittle_container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 2em;
+}
