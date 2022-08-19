@@ -15,8 +15,8 @@
       "name": "Escola",
       "budget": "39999",
       "category": {
-        "id": "3",
-        "name": "Design"
+        "id": "4",
+        "name": "Planejamento"
       },
       "cost": 0,
       "services": [],
@@ -24,7 +24,7 @@
     },
     {
       "name": "Apartamento",
-      "budget": "80000",
+      "budget": "80053",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
@@ -35,7 +35,7 @@
     },
     {
       "name": "Piscina da casa de praia",
-      "budget": "20000",
+      "budget": "20008",
       "category": {
         "id": "3",
         "name": "Design"
