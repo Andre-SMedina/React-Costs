@@ -10,6 +10,7 @@
 .form_control input {
   padding: 0.5em;
   border-radius: 10px;
+  max-width: 500px;
 }
 .form_control input::placeholder {
   color: #7b7b7b;

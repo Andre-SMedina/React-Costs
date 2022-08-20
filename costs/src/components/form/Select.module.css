@@ -3,6 +3,7 @@
   flex-direction: column;
   margin-bottom: 1em;
 }
+
 .form_control label {
   margin-bottom: 0.6em;
   font-weight: bold;
@@ -10,4 +11,5 @@
 .form_control select {
   padding: 0.5em;
   border-radius: 10px;
+  max-width: 500px;
 }

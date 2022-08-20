@@ -13,7 +13,7 @@
     },
     {
       "name": "Escola",
-      "budget": "39999",
+      "budget": "80000",
       "category": {
         "id": "4",
         "name": "Planejamento"
@@ -29,8 +29,27 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 70003,
+      "services": [
+        {
+          "name": "teste",
+          "cost": "3333",
+          "description": "teste",
+          "id": "b25234c9-7e86-44a8-a166-4c3768e3775d"
+        },
+        {
+          "name": "teste2",
+          "cost": "33335",
+          "description": "teste2",
+          "id": "615210f2-e444-4416-93c4-2f184dea91fe"
+        },
+        {
+          "name": "teste2",
+          "cost": "33335",
+          "description": "teste2",
+          "id": "615210f2-e444-4416-93c4-2f184dea91fe"
+        }
+      ],
       "id": 4
     },
     {
