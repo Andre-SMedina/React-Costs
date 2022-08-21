@@ -3,7 +3,7 @@
   border: 1px solid #7a7a7a;
   border-radius: 5px;
   /* width: 24%; */
-  margin: 0.5%;
+  margin: 8px;
 }
 .project_card h4 {
   background-color: #222;
@@ -65,8 +65,8 @@
   border-radius: 10px;
   transition: 0.5s;
   /* display: flex;
-  align-items: center; */
-  /* justify-content: center; */
+  align-items: center;
+  justify-content: center; */
 }
 .project_card_actions svg {
   margin-right: 0.5em;

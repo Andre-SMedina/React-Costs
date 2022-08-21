@@ -7,8 +7,21 @@
         "id": "1",
         "name": "Infra"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 8010,
+      "services": [
+        {
+          "name": "Pedreiro",
+          "cost": "4000",
+          "description": "Serviço de pedreiro",
+          "id": "dde14a14-1bfc-4542-a72d-d693bbd780b7"
+        },
+        {
+          "name": "Elétrica",
+          "cost": "4000",
+          "description": "Fiação",
+          "id": "938aa2c0-efce-438d-8152-4fcc07c9438f"
+        }
+      ],
       "id": 2
     },
     {
@@ -18,8 +31,15 @@
         "id": "4",
         "name": "Planejamento"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 5010,
+      "services": [
+        {
+          "name": "Banheiros",
+          "cost": "5000",
+          "description": "Reformar banheiros",
+          "id": "0cd2bb97-dd87-4add-b0fb-60fe456c9b78"
+        }
+      ],
       "id": 3
     },
     {
