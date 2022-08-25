@@ -132,14 +132,6 @@ function Project() {
         setType("success");
       })
       .catch((err) => console.log(err));
-
-    // const servicesUpdated = project.services.filter(
-    //   (service) => service.id !== id
-    // );
-
-    // const projectUpdated = project;
-
-    // projectUpdated.services = servicesUpdated;
   }
 
   function toggleProjectForm() {
